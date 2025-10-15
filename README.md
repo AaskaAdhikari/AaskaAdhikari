@@ -1,5 +1,8 @@
 ## HELLO!!!
- I'm currently a student at Leeds Beckett University and I'm studying Computer Science :)
+
+ I'm Aaska :)
+ 
+ I'm currently a student at Leeds Beckett University and I'm studying Computer Science.
 <!--
 **AaskaAdhikari/AaskaAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
