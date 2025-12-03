@@ -2,7 +2,10 @@
 
  I'm Aaska :)
  
- I'm currently studying Computer Science at Leeds Beckett University.
+ First-semester Computer Science student at Leeds Beckett University. I am curious about Python 🐍 and enjoy building small projects, while also passionate about learning programming through hands-on practice and exploring new ideas. I am always eager to improve skills and take on new challenges. I am also active on social medias. 
+ Catch me on Facebook and Instagram! 
+ Facebook: https://www.facebook.com/ashka.adhikari.5
+ Instagram: https://www.instagram.com/ashka_adhikari/
 <!--
 **AaskaAdhikari/AaskaAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
